@@ -36,7 +36,7 @@ The full schema and an ER diagram illustrating the relationships between all ent
 DDL Execution Order:  
 To successfully recreate the database, the DDL.sql script must be executed in a specific order to respect foreign key dependencies. The correct sequence is outlined within the script's comments.
 
-## **![DDL Execution Order][Documentation/DDL Execution Order.png]**
+## ![DDL Execution Order][Documentation/DDL Execution Order.png]
 
 #### **2\. Data Population**
 
