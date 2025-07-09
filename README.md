@@ -31,12 +31,12 @@ The project began with architecting a logical and efficient relational database 
 
 ER Diagram:  
 The full schema and an ER diagram illustrating the relationships between all entities are available in the /Documentation folder.  
-![][image1]
+![ERDiagram](Documentation/ERDiagram.png)
 
 DDL Execution Order:  
 To successfully recreate the database, the DDL.sql script must be executed in a specific order to respect foreign key dependencies. The correct sequence is outlined within the script's comments.
 
-## **![][image2]**
+## **![DDL Execution Order][Documentation/DDL Execution Order.png]**
 
 #### **2\. Data Population**
 
